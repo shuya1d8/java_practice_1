@@ -3,7 +3,7 @@
 
 ## 説明
 ### トップページ
-CardGameWorld.java（CardGameWorld.class）
+CardGameWorld.java
 
 ### テーマ
 ゲームセンター
