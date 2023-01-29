@@ -2,7 +2,7 @@
 授業後の制作物
 
 ## 説明
-###トップページ
+### トップページ
 CardGameWorld.java（CardGameWorld.class）
 
 ### テーマ
