@@ -15,4 +15,4 @@ CardGameWorld.java
 
 
 ## 補足
-現在あるそれぞれの山札の共通処理をまとめたオブジェクトを作成予定（[yamahuda.java](./yamahuda/yamahuda.java)）
+現在あるそれぞれの山札の共通処理をまとめたオブジェクトを作成予定（[yamahuda.java](/yamahuda/Yamahuda.java)）
